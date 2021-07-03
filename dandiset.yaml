@@ -5,21 +5,8 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 374956840341
-  numberOfFiles: 169
-  numberOfSubjects: 26
-  schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: House mouse
-    schemaKey: SpeciesType
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Siegle, Josh; Wakeman, Wayne; Jia, Xiaoxuan; Durand, Severine; Heller, Gregg;
   Ramirez, Tamina; Graddis, Nile; Mei, Nicholas (2021) 20191003_AIBS_mouse_ecephys_functional_connectivity
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000022/draft
