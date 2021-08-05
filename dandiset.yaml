@@ -133,7 +133,8 @@ keywords:
 - machine learning
 - neurobiology
 - signal processing
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000022/versions/draft/assets/
 name: 20191003_AIBS_mouse_ecephys_functional_connectivity
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
